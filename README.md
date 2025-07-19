@@ -50,7 +50,7 @@ HandyMan_FrontEnd/
 - **HTML5** & **CSS3** for structure and styling  
 - **Vanilla JavaScript** for UI interactions  
 - **Custom assets** organized in the `assets/` folder  
-- Created by student-developer **Satakratu Chakraborty**
+- Created by student-developer **Antra Gupta**
 
 ---
 
@@ -59,7 +59,7 @@ HandyMan_FrontEnd/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/satakratu6/HandyMan_FrontEnd.git
+git clone https://https://github.com/antra1947/HandyMan-project-
 cd HandyMan_FrontEnd
 ```
 
@@ -109,7 +109,7 @@ Contributions welcome!
 
 ## 📜 License & Credits
 
-- **Developer**: Satakratu Chakraborty ([@satakratu6](https://github.com/satakratu6))  
+- **Developer**: Satakratu Chakraborty ([@antra1947](https://github.com/antra1947))  
 - Assets included in the `assets/` folder → credit original creators if applicable  
 - License: [MIT](LICENSE) *(if available)*
 
