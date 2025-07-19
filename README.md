@@ -109,7 +109,7 @@ Contributions welcome!
 
 ## 📜 License & Credits
 
-- **Developer**: Satakratu Chakraborty ([@antra1947](https://github.com/antra1947))  
+- **Developer**: Antra Gupta ([@antra1947](https://github.com/antra1947))  
 - Assets included in the `assets/` folder → credit original creators if applicable  
 - License: [MIT](LICENSE) *(if available)*
 
