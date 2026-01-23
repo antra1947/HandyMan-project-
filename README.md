@@ -1,5 +1,5 @@
 
-# HandyMan
+# HandyMan Project
 
 [![Live Demo](HandyMan Website)](https://handyman-fx77.onrender.com/)
 
